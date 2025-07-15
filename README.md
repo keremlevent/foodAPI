@@ -98,6 +98,12 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-*Developed as a Kotlin Android project for educational purposes.*
+## ✍️ Author
 
-```
+**Kerem Levent**  
+📧 [keremleventt@gmail.com](mailto:keremleventt@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/keremlevent/)
+  
+---
+
+*Developed as a Kotlin Android project for educational purposes.*
